@@ -1,0 +1,15 @@
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\bin\Debug\net7.0\Aula12AtividadeProdutos.exe
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\bin\Debug\net7.0\Aula12AtividadeProdutos.deps.json
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\bin\Debug\net7.0\Aula12AtividadeProdutos.runtimeconfig.json
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\bin\Debug\net7.0\Aula12AtividadeProdutos.dll
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\bin\Debug\net7.0\Aula12AtividadeProdutos.pdb
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\obj\Debug\net7.0\Aula12AtividadeProdutos.csproj.AssemblyReference.cache
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\obj\Debug\net7.0\Aula12AtividadeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\obj\Debug\net7.0\Aula12AtividadeProdutos.AssemblyInfoInputs.cache
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\obj\Debug\net7.0\Aula12AtividadeProdutos.AssemblyInfo.cs
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\obj\Debug\net7.0\Aula12AtividadeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\obj\Debug\net7.0\Aula12AtividadeProdutos.dll
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\obj\Debug\net7.0\refint\Aula12AtividadeProdutos.dll
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\obj\Debug\net7.0\Aula12AtividadeProdutos.pdb
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\obj\Debug\net7.0\Aula12AtividadeProdutos.genruntimeconfig.cache
+C:\Users\miltom.snascimento\source\repos\Aula12AtividadeProdutos\Aula12AtividadeProdutos\obj\Debug\net7.0\ref\Aula12AtividadeProdutos.dll
